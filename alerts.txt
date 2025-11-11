@@ -22,3 +22,75 @@ Average CPU per Server: 10.00 vCPUs
 Average Memory per Server: 85.00 GB
 ==============================
 2025-11-11 15:01:41 - ALERT: CPU=10.00%, MEM=85.00%
+
+--- Report Generated at: 2025-11-11 18:04:31 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 90.0 vCPUs
+Total Memory Used: 85.0 GB
+Average CPU per Server: 45.00 vCPUs
+Average Memory per Server: 42.50 GB
+==============================
+Status: All systems healthy
+
+--- Report Generated at: 2025-11-11 18:04:59 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 180.0 vCPUs
+Total Memory Used: 180.0 GB
+Average CPU per Server: 90.00 vCPUs
+Average Memory per Server: 90.00 GB
+==============================
+2025-11-11 18:04:59 - ALERT: CPU=90.00%, MEM=90.00%
+
+--- Report Generated at: 2025-11-11 18:05:27 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 180.0 vCPUs
+Total Memory Used: 180.0 GB
+Average CPU per Server: 90.00 vCPUs
+Average Memory per Server: 90.00 GB
+==============================
+2025-11-11 18:05:27 - ALERT: CPU=90.00%, MEM=90.00%
+
+--- Report Generated at: 2025-11-11 18:07:12 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 60.0 vCPUs
+Total Memory Used: 100.0 GB
+Average CPU per Server: 30.00 vCPUs
+Average Memory per Server: 50.00 GB
+==============================
+Status: All systems healthy
+
+--- Report Generated at: 2025-11-11 18:07:29 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 170.0 vCPUs
+Total Memory Used: 40.0 GB
+Average CPU per Server: 85.00 vCPUs
+Average Memory per Server: 20.00 GB
+==============================
+2025-11-11 18:07:29 - ALERT: CPU=85.00%, MEM=20.00%
+
+--- Report Generated at: 2025-11-11 18:07:42 ---
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 20.0 vCPUs
+Total Memory Used: 180.0 GB
+Average CPU per Server: 10.00 vCPUs
+Average Memory per Server: 90.00 GB
+==============================
+2025-11-11 18:07:42 - ALERT: CPU=10.00%, MEM=90.00%
