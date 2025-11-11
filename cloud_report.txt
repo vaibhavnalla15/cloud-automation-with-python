@@ -1,0 +1,47 @@
+2025-11-11 13:40:20.816974
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 4.0 vCPUs
+Total Memory Used: 24.0 GB
+Average CPU per Server: 2.00 vCPUs
+Average Memory per Server: 12.00 GB
+==============================
+
+2025-11-11 13:40:31.841908
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 4.0 vCPUs
+Total Memory Used: 4.0 GB
+Average CPU per Server: 2.00 vCPUs
+Average Memory per Server: 2.00 GB
+==============================
+
+2025-11-11 13:41:21.494329
+====== Cloud Resource Summary ======
+Servers Monitored: 3
+------------------------------
+Total CPU Used: 7.0 vCPUs
+Total Memory Used: 14.0 GB
+Average CPU per Server: 2.33 vCPUs
+Average Memory per Server: 4.67 GB
+==============================
+
+2025-11-11 13:42:25.100178
+
+====== Cloud Resource Summary ======
+Servers Monitored: 2
+------------------------------
+Total CPU Used: 8.0 vCPUs
+Total Memory Used: 10.0 GB
+Average CPU per Server: 4.00 vCPUs
+Average Memory per Server: 5.00 GB
+==============================
+
+
+--- Latest Cloud Report ---
+2025-11-06 19:42:10
+Service: EC2
+Status: Running
+Region: ap-south-1
